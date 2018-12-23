@@ -1,0 +1,6 @@
+[package]
+name = "tdd-rust"
+version = "0.1.0"
+authors = ["ucyo <cayoglu@me.com>"]
+
+[dependencies]
